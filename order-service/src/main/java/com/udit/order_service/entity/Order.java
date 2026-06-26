@@ -25,4 +25,6 @@ public class Order {
     private LocalDateTime localDateTime;
 
     private String userId;
+
+    private Long quantity;
 }
